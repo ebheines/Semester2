@@ -1,0 +1,8 @@
+INF-1400
+
+Arbeidskrav:
+    Oblig 1, frist fredag uke 5
+    Oblig 2, frist fredag uke 10
+    Oblig 3, frist fredag uke 16
+
+Anaconda Python, last ned

@@ -1,0 +1,37 @@
+
+
+tilgjengelige metoder:
+    - 
+
+
+    Square
+    - is_valid
+    - set_num
+
+    
+for solve:
+
+sjekk om det er en "empty" square
+    sjekk om den passer for rows og kollums
+
+    sjekk om den passer for box
+
+        set in tall om det ikke er likt og tallet ikke er == 0
+
+
+for find_empty:
+    finne tall som er == 0
+    LØØØØØØST
+    
+
+
+
+for is_valid:
+    - lag en midlertidig liste hvor hver square har gitt row og col
+
+
+
+
+For solve:
+    is_empty
+    _isvalid

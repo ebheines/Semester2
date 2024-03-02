@@ -1,0 +1,6 @@
+Hva lærer vi idag?
+
+Ved å bruke "_" foran navnet til en metode(eks "_METODE") kan vi gjøre en metode mer privat
+Bruker vi "__" foran navnet er den mer privat, men kan hentes ved "self._CLASSNAME__METODE
+
+"@staticmethod" for å gjøre en metode static og da ubrukelig

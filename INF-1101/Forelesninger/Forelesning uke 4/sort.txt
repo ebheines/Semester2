@@ -1,0 +1,15 @@
+Stor Omega: 
+"f grows at least as fast as g"
+
+Stor Teta:
+"f grows at the same rate as g"
+
+Stor O:
+"f grows no faster than g"
+
+
+Link til forklaring av symboler:
+http://web.mit.edu/broder/Public/asymptotics-cheatsheet.pdf 
+
+
+

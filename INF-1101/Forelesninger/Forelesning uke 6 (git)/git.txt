@@ -1,0 +1,3 @@
+
+Kommandoer for å bruke git i terminalen (alle kommandoer starter med "git ...):
+

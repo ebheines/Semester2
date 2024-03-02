@@ -1,0 +1,33 @@
+Hvorfor bruke lister?
+
+Eventuelle alternativer:
+    - Array
+    - Dynamisk Array
+    - Binært tre
+    - Tries
+    - Hash table
+    - Fil (tekstfil f.eks.)
+
+Fordeler med liste:
+    - Minne-effektiv
+    - Ikke-sammenhengende
+    - Lett å restrukturere
+Hva bruker vi lister til?
+    - Implementere andre data strukturer
+    - "Process scheduling"
+    - Dynamisk minne arrangement
+
+
+Til obligen:
+    f.eks.
+    a.set = [1, 2, 3]
+    b.set = [1, 7, 8]
+
+    a.set U b.set = [1, 2, 3, 7, 8]
+
+    a.set /\ b.set = [1]
+
+    a.set "diff" b.set = [2, 3, 7, 8]
+
+    implementer set-operasjoner til å drive et spam-filter for emails/tekstfil
+    

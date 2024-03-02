@@ -1,0 +1,43 @@
+Begrepsøving for eksamen 1400:
+
+Is-a relationship:
+An is-a relationship in OOP programming is a relationship between classes.
+Is-a means exaclty what it sounds like, something "is-a" something else. 
+For example if we have e class Animal and a class Cat. A cat is a animal and
+can inherit from the animal class. A animal is not a cat (animal can be more
+than just a cat) and will not inherit from the cat class. Is-a relationships
+means inheritence between two classes.
+
+
+Has-a relationship:
+A has-a relationship means a relationship where one class has an instance of 
+another class. If we have to classes - a Motor and a Car class. A car has a 
+motor, so for the car class we can create a object from the class motor. This 
+means the car "has-a" motor. 
+
+
+Polymorphism:
+Polymorphism means that the same function can be called upon with different input 
+and then give out differnt output. For example if we have a function "speak" for 
+different animal classes. If we have a cat and a dog, both will be able to call
+for the speak function, but they will not give the same output since they dont
+make the same noice. This funciton, speak, will then have polymorphism since
+it's the same function-call, but different outcomes. 
+
+
+Encapsulation:
+Encapsulation means bundling data and methods working on the data in the same unit, 
+called the class. The class has differnt sorts of data in it, depending on what it's
+a class for, and different methods working on this data. This makes it possible to 
+hide internal implementations and provides a structured interface for interacting
+with the object. 
+
+
+For klassediagram:
+-	Betyr at dette er private variabler
++	Offentlige metoder som resten av programmet kan jobbe med
+
+
+
+
+
